@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+transformers
+torch
+python-multipart
+numpy
+pillow
+opencv-python-headless
